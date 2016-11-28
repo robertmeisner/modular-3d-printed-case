@@ -1,4 +1,4 @@
-# modular-diy-case
+# modular-3d-printed-case
 Modular, parametric case for your DIY project (Arduino, Raspberry P). Designed in OpenSCAD.
 ## Description
 Casing has been designed to make the development of your electronic DIY projects in the future as easy as possible.
