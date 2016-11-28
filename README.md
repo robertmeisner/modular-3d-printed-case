@@ -12,6 +12,7 @@ The project seeks to bring the need for soldering and gluing to a minimum.
 * __./lib/functions.scad__ - base functions responsible for creation of case and its cover.
 * __./lib/globals.scad__ - global variables used by tthe library. You can overwrite values after including 
 * __./examples/*__ - example projects where Modular DIY Case is modified and used in DIY projects
+
 ## LICENSE
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 https://creativecommons.org/licenses/by-nc-sa/4.0/
