@@ -1,0 +1,9 @@
+$fn = 100; // resolution
+clearance=0.25; //clearances for 3D printing to make parts easly fit where needed
+width = 68.6+3; //width of the case(X)
+depth = 53.3+3; //depth of the case (Y)
+depthSpace = 5; //little space on both sides of the case to store loose wires and make it easier to fit components
+height = 35; //height of the case (Z)
+indentHeight = 2; // tells us how far the cover overlaps the case
+wallWidth = 3; // wall width
+capOffset=50; // describes how heigh is a case's cover rendered
